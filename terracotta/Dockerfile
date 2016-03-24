@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java8
+FROM java:8-jre
 
 MAINTAINER Jyong <yuki-nami@hotmail.com>
 ENV REFRESHED_AT 2016-03-24
